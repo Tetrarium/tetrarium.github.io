@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	padding: 0 10px;
+}
+
+header {
+	background-color: blueviolet;
+	background-image: url(../images/pattern.jpeg);
+	margin: 50px 0;
+	padding: 20px;
+}
+
+header h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+#brushes h2 {
+	background: mediumspringgreen;
+}
+
+#frames h2 {
+	background: lightcoral;
+}
+
+#paint h2 {
+	background: skyblue;
+}
+
+section h2 {
+	font-size: 32px;
+	color: white;
+	padding: 2px;
+	margin-bottom: 20px;
+}
+
+section h3 {
+	font-size: 18px;
+	margin: 18px 0;
+}
+
+section p {
+	margin: 18px 0;
+}
+
+section span {
+	font-weight: bold;
+	color: blue;
+}
